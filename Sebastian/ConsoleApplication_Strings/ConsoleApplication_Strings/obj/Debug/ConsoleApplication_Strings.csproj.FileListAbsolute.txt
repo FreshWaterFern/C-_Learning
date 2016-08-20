@@ -1,1 +1,6 @@
 C:\Users\Seabass\Desktop\Learning C#\C-_Learning\Sebastian\ConsoleApplication_Strings\ConsoleApplication_Strings\bin\Debug\ConsoleApplication_Strings.exe.config
+C:\Users\Seabass\Desktop\Learning C#\C-_Learning\Sebastian\ConsoleApplication_Strings\ConsoleApplication_Strings\bin\Debug\ConsoleApplication_Strings.exe
+C:\Users\Seabass\Desktop\Learning C#\C-_Learning\Sebastian\ConsoleApplication_Strings\ConsoleApplication_Strings\bin\Debug\ConsoleApplication_Strings.pdb
+C:\Users\Seabass\Desktop\Learning C#\C-_Learning\Sebastian\ConsoleApplication_Strings\ConsoleApplication_Strings\obj\Debug\ConsoleApplication_Strings.csprojResolveAssemblyReference.cache
+C:\Users\Seabass\Desktop\Learning C#\C-_Learning\Sebastian\ConsoleApplication_Strings\ConsoleApplication_Strings\obj\Debug\ConsoleApplication_Strings.exe
+C:\Users\Seabass\Desktop\Learning C#\C-_Learning\Sebastian\ConsoleApplication_Strings\ConsoleApplication_Strings\obj\Debug\ConsoleApplication_Strings.pdb

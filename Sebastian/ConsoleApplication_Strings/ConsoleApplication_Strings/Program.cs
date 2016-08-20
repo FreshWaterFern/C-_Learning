@@ -10,6 +10,8 @@ namespace ConsoleApplication_Strings
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is a console application meant for exploring the power of 'strings'.");
+            Console.ReadKey();
         }
     }
 }
